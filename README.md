@@ -55,8 +55,8 @@ With **13+ years of experience**, I specialize in building and scaling SaaS plat
 ## 📚 Blogs & Writing  
 
 - [alkeshghorpade.me](https://alkeshghorpade.me) – My personal blog on DS and Algorithms.  
-- [Saeloun Blog](https://blog.saeloun.com/) – Wrote Ruby on Rails deep dives.  
-- [ShakaCode Blog](https://blog.shakacode.com/) – Contributed technical articles.  
+- [Saeloun Blog](https://blog.saeloun.com/authors/alkesh/) – Wrote Ruby on Rails deep dives.  
+- [ShakaCode Blog](https://www.shakacode.com/blog/all-topics/) – Contributed technical articles.  
 
 ---
 
